@@ -12,16 +12,16 @@ title                    : "Jiajun Ji"
 title_separator          : "-"
 name                     : &name "Jiajun Ji"
 description              : &description "personal description"
-url                      : https://jjj7811.github.io/Jiajun-Ji.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://Jiajun-Ji.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://jjj7811.github.io/Jiajun-Ji.github.io/"
+repository               : "https://jjj7811.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/my_name.png"
+  avatar           : "my_name.png"
   name             : "Jiajun Ji"
   pronouns         : # example: "she/her"  
   bio              : "Do whatever I want"
