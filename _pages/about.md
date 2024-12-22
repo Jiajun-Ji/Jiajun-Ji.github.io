@@ -23,15 +23,11 @@ I have a research interest in the infrastructure of AI systems and enjoy explori
 EDUCATION
 ======
 
-- **Sep. 2024 - Present**
-
-  University of Science and Technology of China, Software Engineering, Suzhou
+- **Sep. 2024 - Present**	University of Science and Technology of China, Software Engineering, Suzhou
 
   Research Focus: Systems for AI, High-Performance Computing, FPGA
 
-- **Sep. 2020 - Jun. 2024**
-
-  China University of Geosciences, Electronic Information Engineering, Wuhan
+- **Sep. 2020 - Jun. 2024**	China University of Geosciences, Electronic Information Engineering, Wuhan
 
   Research Focus: Embedded Systems, FPGA
 
