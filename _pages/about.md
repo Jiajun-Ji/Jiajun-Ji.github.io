@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-​    Hi, here is Jiajun Ji (纪佳骏), a Master's student at the University of Science and Technology of China (USTC), from the High Energy-Efficient Intelligent Computing Lab, advised by Prof. Lei Gong and Prof. Chao Wang. You can contact me with [jiajunji_ee@163.com](mailto:jiajunji_ee@163.com).
+​        Hi, here is Jiajun Ji (纪佳骏), a Master's student at the University of Science and Technology of China (USTC), from the High Energy-Efficient Intelligent Computing Lab, advised by Prof. Lei Gong and Prof. Chao Wang. You can contact me with [jiajunji_ee@163.com](mailto:jiajunji_ee@163.com).
 
 ​	
 
 RESEARCH INTERESTS
 ======
-​    I have a research interest in the infrastructure of AI systems and enjoy exploring topics related to the underlying aspects of computer systems. Additionally, I am deeply passionate about embedded software and hardware.
+​        I have a research interest in the infrastructure of AI systems and enjoy exploring topics related to the underlying aspects of computer systems. Additionally, I am deeply passionate about embedded software and hardware.
 
 - AI System, HPC
 - Reconfigurable Computing, FPGA
