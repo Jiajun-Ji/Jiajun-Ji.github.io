@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "Suzhou-CN"
-title                    : "Jiajun Ji"
+title                    : "纪佳骏"
 title_separator          : "-"
 name                     : &name "Jiajun Ji"
 description              : &description "personal description"
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "jjj7811"
+  github           : "Jiajun-Ji"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 

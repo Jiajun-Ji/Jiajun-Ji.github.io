@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-​	Hi, here is Jiajun Ji (纪佳骏), a Master's student at the University of Science and Technology of China (USTC), from the High Energy-Efficient Intelligent Computing Lab, advised by Prof. Lei Gong and Prof. Chao Wang.
+​	Hi, here is Jiajun Ji (纪佳骏), a Master's student at the University of Science and Technology of China (USTC), from the High Energy-Efficient Intelligent Computing Lab, advised by Prof. Lei Gong and Prof. Chao Wang. You can contact me with [jiajunji_ee@163.com](mailto:jiajunji_ee@163.com).
 
 ​	
 
