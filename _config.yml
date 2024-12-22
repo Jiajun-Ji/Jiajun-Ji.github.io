@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "Suzhou-CN"
-title                    : "纪佳骏"
+title                    : "Jiajun Ji"
 title_separator          : "-"
 name                     : &name "Jiajun Ji"
 description              : &description "personal description"
@@ -22,11 +22,11 @@ repository               : "https://github.com/Jiajun-Ji"
 author:
   # Biographic information
   avatar           : "my_photo.png"
-  name             : "Jiajun Ji"
+  name             : "纪佳骏"
   pronouns         : # example: "she/her"  
   bio              : "Do whatever I want"
   location         : "Suzhou-CN"
-  employer         : "USTC"
+  employer         : "University of Science\nand Technology of China,USTC"
   uri              : # URL
   email            : "jiajunji_ee@163.com" 
 
