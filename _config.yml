@@ -21,7 +21,7 @@ repository               : "https://github.com/Jiajun-Ji"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "my_photo.JPG"
+  avatar           : "my_photo.png"
   name             : "Jiajun Ji"
   pronouns         : # example: "she/her"  
   bio              : "Do whatever I want"
